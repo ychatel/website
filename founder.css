@@ -1,0 +1,36 @@
+body {
+  background-color: rgb(255, 255, 255);
+}
+h1 {
+  font-size: 40px;
+  color: rgb(0, 0, 0);
+}
+
+h2 {
+  font-size: 50px;
+  color: #438b57;
+}
+
+#day p {
+  font-size: 20;
+  color: rgb(0, 0, 0);
+}
+p {
+  font-size: 20;
+  color: rgb(0, 0, 0);
+  font-family: "Oswald", sans-serif;
+}
+
+.hero {
+  margin-top: 50px;
+  font-size: 50px;
+}
+.medium {
+  margin-top: 30px;
+  font-size: 40px;
+}
+.companyname {
+  font-family: "Oswald", sans-serif;
+  font-size: 50px;
+  color: #438b57;
+}
